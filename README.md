@@ -45,12 +45,12 @@ Aplikasi ini dibangun dengan menggunakan:
 ## Requirement
 
 - Visual Basic 6.0
-- Cristal Report 8 or later
+- Crystal Reports 8 or later
 - Windows XP or later
 
 ## Installation
 
-Install Visual Basic 6 dan Cristal Report.
+Install Visual Basic 6 dan Crystal Reports.
 
 <div align="justify">Jalankan Program ADO Gaji.vbp untuk merubah Code atau klik 2x Program Penggajian Versi 1.0.exe langsung menjalankan aplikasinya.</div>
 <br>

@@ -5,7 +5,7 @@
 <div align="justify">Program penggajian adalah perangkat lunak atau aplikasi komputer yang digunakan oleh perusahaan atau organisasi untuk menghitung, mengelola, dan memproses gaji karyawan. Program ini membantu dalam mengotomatisasi proses penggajian, yang dapat melibatkan banyak perhitungan kompleks, pemotongan pajak, dan administrasi lainnya.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-ProgramPenggajian/graphs/commit-activity)
 
